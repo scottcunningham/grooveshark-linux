@@ -1,0 +1,4 @@
+grooveshark-linux
+=================
+Pseudo-desktop app using Google Chrome for running grooveshark on Linux as an "app". 
+Works in GNOME3 and Unity; should also work in KDE/XFCE/LXDE but I'm not sure as I don't use them.
