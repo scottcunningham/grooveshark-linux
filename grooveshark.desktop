@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Grooveshark
+Comment=Grooveshark for Linux (kind of)
+Exec=/usr/local/bin/grooveshark
+Icon=/usr/share/icons/grooveshark/grooveshark.png
+Terminal=false
+Type=Application
+Categories=Application;Audio;AudioVideo;

@@ -1,0 +1,13 @@
+#!/bin/sh
+
+if [ -f `which google-chrome` ]
+then
+    CHROME=`which google-chrome`
+elif [ -f `which chromium-browser` ]
+then
+    CHROME=`which chromium-browser`
+fi
+
+echo "Using browser located at: $CHROME"
+
+$CHROME -app=http://grooveshark.com
